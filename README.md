@@ -8,7 +8,7 @@ Coc.nvim extension
 Press `.` to trigger buffer source completion in (neo)vim.
 
 NOTE: Though I made this extension, I don't recommend using this if you are using
-some better completions extensions as it would pollute your completion
+some better completion extensions as it would pollute your completion
 candidates.
 
 ![](https://user-images.githubusercontent.com/20282795/112474178-3f3f4580-8daa-11eb-89bb-28090d68be76.gif)
