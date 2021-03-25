@@ -7,7 +7,7 @@ Coc.nvim extension
 
 Press `.` to trigger buffer source completion in (neo)vim.
 
-![](https://user-images.githubusercontent.com/20282795/105694302-c5224a00-5f3b-11eb-86b5-8a4e717aa676.gif)
+![](https://user-images.githubusercontent.com/20282795/112474178-3f3f4580-8daa-11eb-89bb-28090d68be76.gif)
 
 ## Installation
 
@@ -30,6 +30,11 @@ Type: <pre><code>number</code></pre>Default: <pre><code>3</code></pre>
 </details>
 
 <!-- prettier-ignore-end -->
+
+## Related
+
+[coc-dash-complete] buffer source completion triggered by `-`
+[coc-just-complete] buffer source completion triggered by `_`
 
 ## License
 
