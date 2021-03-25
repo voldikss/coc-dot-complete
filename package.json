@@ -1,10 +1,10 @@
 {
   "name": "coc-dot-complete",
-  "version": "0.0.1",
-  "description": "One kind of buffer words completion",
+  "version": "0.0.2",
+  "description": "Press `.` to trigger buffer source completion in (neo)vim.",
   "main": "lib/index.js",
   "engines": {
-    "coc": "^0.0.79"
+    "coc": "^0.0.80"
   },
   "keywords": [
     "coc.nvim",
