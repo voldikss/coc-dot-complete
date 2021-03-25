@@ -37,8 +37,8 @@ Type: <pre><code>number</code></pre>Default: <pre><code>3</code></pre>
 
 ## Related
 
-- [coc-dash-complete] buffer source completion triggered by `-`
-- [coc-just-complete] buffer source completion triggered by `_`
+- [coc-dash-complete](https://github.com/voldikss/coc-dash-complete) buffer source completion triggered by `-`
+- [coc-just-complete](https://github.com/voldikss/coc-just-complete) buffer source completion triggered by `_`
 
 ## License
 
